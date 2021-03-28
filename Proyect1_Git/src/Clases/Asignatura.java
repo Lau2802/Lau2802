@@ -56,7 +56,8 @@ public class Asignatura {
 			profesor = new String [] {"Luis Perez Gonzalez",
 					"Eva Martinez Ruiz",
 					"Carmen Sanchez Lopez",
-					"Pedro Salinas Burgos","Eugenia Simon Moreno"};
+					"Pedro Salinas Burgos","Eugenia Simon Moreno,"
+							+ "Pedro Picapiedra"};
 			
 			cod_profesor = (int)(Math.random()*150+1);
 			
